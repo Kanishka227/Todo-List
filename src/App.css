@@ -1,0 +1,14 @@
+.title{
+  font-size: 50px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+input{
+  width: 100%;
+  padding: 10px;
+}
+.col ,.col-md-auto{
+  text-align: left;
+  margin-bottom: 20px;
+}
+
